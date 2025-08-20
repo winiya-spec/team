@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'AbhayaLibre-Regular';  
+	src: local('AbhayaLibre-Regular'), url(../abhaya/AbhayaLibre-Regular.woff2) format('woff2'), url(../abhaya/AbhayaLibre-Regular.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'AbhayaLibre-Bold';
+	src: local('AbhayaLibre-Bold'), url(../abhaya/AbhayaLibre-ExtraBold.woff2) format('woff2'), url(../abhaya/AbhayaLibre-Bold.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'AbhayaLibre-SemiBold';
+	src: local('AbhayaLibre-SemiBold'), url(../abhaya/AbhayaLibre-SemiBold.woff2) format('woff2'), url(../abhaya/AbhayaLibre-SemiBold.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'AbhayaLibre-Medium';
+	src: local('AbhayaLibre-Medium'), url(../abhaya/AbhayaLibre-Medium.woff2) format('woff2'), url(../abhaya/AbhayaLibre-Medium.woff) format('woff');
+}
+
